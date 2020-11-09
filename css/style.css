@@ -1,0 +1,27 @@
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
+.slider h3,
+.slider h5,
+.clients h3 {
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.slider {
+  margin-top: 0;
+}
+
+#projects a {
+  color: black;
+  text-align: center;
+}
+
+#projects a:hover {
+  color: blue;
+}
+
+section,
+footer {
+  padding: 20px 0;
+}
